@@ -1,1 +1,3 @@
 # my-solition
+
+## Teknik Detaylar
